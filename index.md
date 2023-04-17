@@ -14,15 +14,15 @@ While as much effort has been made to make these files as user friendly as possi
 
 ## Files
 
-[AutoSplit 2.0](https://github.com/Avasam/AutoSplit/releases)
+[AutoSplit 2.0](https://github.com/Avasam/AutoSplit/releases){:text-align: center;}
 
-[Second Opinion - English](./files/SO-EN.zip){:download;}{:center;}
-[Second Opinion - Japanese](./files/SO-JP.zip){:download;}{:center;}
+[Second Opinion - English](./files/SO-EN.zip){:download;}{:text-align: center;}
+[Second Opinion - Japanese](./files/SO-JP.zip){:download;}{:text-align: center;}
 
-[New Blood - English](./files/NB-EN.zip){:download;}{:center;}
-[New Blood - Japanese](./files/NB-JP.zip){:download;}{:center;}
+[New Blood - English](./files/NB-EN.zip){:download;}{:text-align: center;}
+[New Blood - Japanese](./files/NB-JP.zip){:download;}{:text-align: center;}
 
-[Trauma Team](./files/TT.zip){:download;}{:center;}
+[Trauma Team](./files/TT.zip){:download;}{:text-align: center;}
 
 # Setup
 
