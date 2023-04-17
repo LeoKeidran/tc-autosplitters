@@ -56,7 +56,7 @@ Q - Why is there a yellow border around OBS? <br>
 A - Sadly this is due to the UWP Capture API. It's a "Security Feature" by Microsoft. You cannot remove this I'm afraid.
 
 Q - I need help! <br>
-A - Join the [Trauma Center Discord]https://discord.com/invite/h4qwmkY), and ask for help there. I'll take a look with you to iron out your issues. 
+A - Join the [Trauma Center Discord](https://discord.com/invite/h4qwmkY), and ask for help there. I'll take a look with you to iron out your issues. 
 
 # Special Thanks
 
