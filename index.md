@@ -16,13 +16,13 @@ While as much effort has been made to make these files as user friendly as possi
 
 [AutoSplit 2.0](https://github.com/Avasam/AutoSplit/releases)
 
-[Second Opinion - English](./files/SO-EN.zip){:download; style="text-align: centre;"}
-[Second Opinion - Japanese](./files/SO-JP.zip){:download; style="text-align: centre;"}}
+[Second Opinion - English](https://raw.githubusercontent.com/LeoKeidran/tc-autosplitters/main/files/SO-EN.zip){:download; style="text-align: centre;"}
+[Second Opinion - Japanese](https://raw.githubusercontent.com/LeoKeidran/tc-autosplitters/main/files/SO-JP.zip){:download; style="text-align: centre;"}}
 
-[New Blood - English](./files/NB-EN.zip){:download; style="text-align: centre;"}}
-[New Blood - Japanese](./files/NB-JP.zip){:download; style="text-align: centre;"}}
+[New Blood - English](https://raw.githubusercontent.com/LeoKeidran/tc-autosplitters/main/files/NB-EN.zip){:download; style="text-align: centre;"}}
+[New Blood - Japanese](https://raw.githubusercontent.com/LeoKeidran/tc-autosplitters/main/files/NB-JP.zip){:download; style="text-align: centre;"}}
 
-[Trauma Team](./files/TT.zip){:download; style="text-align: centre;"}}
+[Trauma Team](https://raw.githubusercontent.com/LeoKeidran/tc-autosplitters/main/files/TT.zip){:download; style="text-align: centre;"}}
 
 # Setup
 
