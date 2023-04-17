@@ -16,11 +16,13 @@ While as much effort has been made to make these files as user friendly as possi
 
 [AutoSplit 2.0](https://github.com/Avasam/AutoSplit/releases)
 
-[Second Opinion - English](./files/SO-EN.zip)
-[Second Opinion - Japanese](./files/SO-JP.zip)
-[New Blood - English](./files/NB-EN.zip)
-[New BLood - Japanese](./files/NB-JP.zip)
-[Trauma Team](./files/TT.zip)
+[Second Opinion - English](./files/SO-EN.zip){:download; style="text-align: centre;"}
+[Second Opinion - Japanese](./files/SO-JP.zip){:download; style="text-align: centre;"}}
+
+[New Blood - English](./files/NB-EN.zip){:download; style="text-align: centre;"}}
+[New Blood - Japanese](./files/NB-JP.zip){:download; style="text-align: centre;"}}
+
+[Trauma Team](./files/TT.zip){:download; style="text-align: centre;"}}
 
 # Setup
 
@@ -28,7 +30,7 @@ Regardless of which set of images you are using, the setup will be the same rega
 
 1. Ensure you have a copy of AutoSplit 2.0 or newer (link above).
 2. Within a folder, place the image folder, the AutoSplit.exe file, and the *'.toml'* file for your relevant game. You can have multiple files and folders collectively here in the event you run multiple games.
-3. Move the AutoSplitIntegration.dll into your LiveSplit components folder (often found at C;\Program Files (x86)\LiveSplit\Components).
+3. Move the AutoSplitIntegration.dll into your LiveSplit components folder (often found at C:\Program Files (x86)\LiveSplit\Components).
 4. Start OBS, or your recording/streaming software of choice, and start LiveSplit.
 5. Open the Layout Editor in LiveSplit (right click > Edit Layout), and click the plus on the right, hover over Control, and click "AutoSplit Integration".
 6. Double Click the AutoSplit Integration entry in the list, and then click the Browse button for the AutoSplit Path. Navigate to the folder you created earlier and select the AutoSplit.exe
@@ -47,13 +49,13 @@ If you don't like reading instructions one by one, then here's a handy video I c
 
 # FAQ
 
-Q - My live similarity is never reaching the threshold.
+Q - My live similarity is never reaching the threshold. <br>
 A - This can either be because the threshold is too high, or more likely the capture region isn't fully aligned with the image. Even if you tweak the X, Y / Width, Height values, it may not 100% match the image database. As such, you will need to further adjust these values to get consistent results.
 
-Q - Why is there a yellow border around OBS?
+Q - Why is there a yellow border around OBS? <br>
 A - Sadly this is due to the UWP Capture API. It's a "Security Feature" by Microsoft. You cannot remove this I'm afraid.
 
-Q - I need help!
+Q - I need help! <br>
 A - Join the [Trauma Center Discord]https://discord.com/invite/h4qwmkY), and ask for help there. I'll take a look with you to iron out your issues. 
 
 # Special Thanks
