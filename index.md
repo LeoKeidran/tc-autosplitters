@@ -16,11 +16,11 @@ While as much effort has been made to make these files as user friendly as possi
 
 {::options parse_block_html="true" /}
 
-<div class="files">
+<div class="downloadArea">
 <a href="https://github.com/Toufool/AutoSplit/releases/tag/v2.0.0" target="_blank">AutoSplit 2.0</a>
 
 <a href="./files/SO-EN.zip" download>Second Opinion - English</a>
-<a href="./files/SO-JP.zip" download>Second Opinion - Japanese</a
+<a href="./files/SO-JP.zip" download>Second Opinion - Japanese</a>
 
 <a href="./files/NB-EN.zip" download>New Blood - English</a>
 <a href="./files/NB-JP.zip" download>New Blood - Japanese</a>
