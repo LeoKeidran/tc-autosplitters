@@ -6,7 +6,7 @@ This page provides links + information on the Trauma Center AutoSplitters. These
 
 ## What is an AutoSplitter?
 
-Without getting too technical, an AutoSplitter looks for conditions to split for you. Some games, such as Portal can look directly at the game's memory to do this, such as looking for a level change. As Trauma Center runs are on console, no such option is available, however instead I am using [Toufool's Auto-Split](https://github.com/Toufool/AutoSplit) that was then forked and developed further by [Avasam](https://github.com/Avasam/AutoSplit/). This software visually compares your game capture with set images I have created, to split for you.
+Without getting too technical, an AutoSplitter looks for conditions to split for you. Some games, such as Portal can look directly at the game's memory to do this, such as looking for a level change. As Trauma Center runs are on console, no such option is available, however instead I am using [Toufool's Auto-Split](https://github.com/Toufool/AutoSplit) that was worked on by them and Avasam. This software visually compares your game capture with set images I have created, to split for you.
 
 ## Disclaimer
 
@@ -14,15 +14,19 @@ While as much effort has been made to make these files as user friendly as possi
 
 ## Files
 
-[AutoSplit 2.0](https://github.com/Avasam/AutoSplit/releases){:text-align: center;}
+{::options parse_block_html="true" /}
 
-[Second Opinion - English](./files/SO-EN.zip){:download;}{:text-align: center;}
-[Second Opinion - Japanese](./files/SO-JP.zip){:download;}{:text-align: center;}
+<div class="files">
+<a href="https://github.com/Toufool/AutoSplit/releases/tag/v2.0.0" target="_blank">AutoSplit 2.0</a>
 
-[New Blood - English](./files/NB-EN.zip){:download;}{:text-align: center;}
-[New Blood - Japanese](./files/NB-JP.zip){:download;}{:text-align: center;}
+<a href="./files/SO-EN.zip" download>Second Opinion - English</a>
+<a href="./files/SO-JP.zip" download>Second Opinion - Japanese</a
 
-[Trauma Team](./files/TT.zip){:download;}{:text-align: center;}
+<a href="./files/NB-EN.zip" download>New Blood - English</a>
+<a href="./files/NB-JP.zip" download>New Blood - Japanese</a>
+
+<a href="./files/TT.zip" download>Trauma Team</a>
+</div>
 
 # Setup
 
