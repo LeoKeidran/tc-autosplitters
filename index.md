@@ -17,7 +17,7 @@ While as much effort has been made to make these files as user friendly as possi
 {::options parse_block_html="true" /}
 
 <div class="downloadArea">
-<a href="https://github.com/Toufool/AutoSplit/releases/tag/v2.0.0" target="_blank">AutoSplit 2.0</a>
+<a href="https://github.com/Toufool/AutoSplit/releases/tag/v2.0.1" target="_blank">AutoSplit 2.0</a>
 
 Second Opinion:
 <a href="./files/SO-EN.zip" download>English</a> | 
