@@ -6,7 +6,7 @@ This page provides links + information on the Trauma Center AutoSplitters. These
 
 ## What is an AutoSplitter?
 
-Without getting too technical, an AutoSplitter looks for conditions to split for you. Some games, such as Portal can look directly at the game's memory to do this, such as looking for a level change. As Trauma Center runs are on console, no such option is available, however instead I am using [Toufool's Auto-Split](https://github.com/Toufool/AutoSplit) that was worked on by them and Avasam. This software visually compares your game capture with set images I have created, to split for you.
+Without getting too technical, an AutoSplitter looks for conditions to split for you. Some games, such as Portal can look directly at the game's memory to do this, such as looking for a level change. As Trauma Center runs are on console, no such option is available, however instead I am using [Toufool's Auto-Split](https://github.com/Toufool/AutoSplit) that was worked on by them and Avasam (and many others). This software visually compares your game capture with set images I have created, to split for you.
 
 ## Disclaimer
 
@@ -17,7 +17,7 @@ While as much effort has been made to make these files as user friendly as possi
 {::options parse_block_html="true" /}
 
 <div class="downloadArea">
-<a href="https://github.com/Toufool/AutoSplit/releases/tag/v2.0.1" target="_blank">AutoSplit 2.0</a>
+<a href="https://github.com/Toufool/AutoSplit/releases" target="_blank">AutoSplit</a>
 
 Second Opinion:
 <a href="./files/SO-EN.zip" download>English</a> | 
@@ -26,7 +26,7 @@ Second Opinion:
 
 New Blood:
 <a href="./files/NB-EN.zip" download>English</a> | 
-<a href="./files/NB-JP.zip" download>Japanese</a> | 
+<a href="./files/NB-JP.zip" download>Japanese</a>  
 
 <a href="./files/TT.zip" download>Trauma Team</a>
 </div>
@@ -35,7 +35,7 @@ New Blood:
 
 Regardless of which set of images you are using, the setup will be the same regardless.
 
-1. Ensure you have a copy of AutoSplit 2.0 or newer (link above).
+1. Ensure you have a copy of AutoSplit 2.0 or newer (link above for releases).
 2. Within a folder, place the image folder, the AutoSplit.exe file, and the *'.toml'* file for your relevant game. You can have multiple files and folders collectively here in the event you run multiple games.
 3. Move the AutoSplitIntegration.dll into your LiveSplit components folder (often found at C:\Program Files (x86)\LiveSplit\Components).
 4. Start OBS, or your recording/streaming software of choice, and start LiveSplit.
